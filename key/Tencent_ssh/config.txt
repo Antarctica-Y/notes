@@ -1,0 +1,4 @@
+Label: Tencent
+Address: 124.220.28.165
+Username: root
+Key: Tx_centos
